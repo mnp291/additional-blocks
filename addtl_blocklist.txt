@@ -5,3 +5,4 @@
 ::1  localhost
 
 127.0.0.1       redgifs.com
+127.0.0.1       oauth.reddit.com
